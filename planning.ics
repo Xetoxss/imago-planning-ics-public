@@ -24,658 +24,865 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:imago-1760616000000-v3f29r5d4n@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1759127400000-zz499w61w4l@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20250929T083000
+DTEND;TZID=Europe/Paris:20250929T163000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:30\nTotal: 08:00\nRoulement: Roulement du : 25/08/2025 au 12/10/2025
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1759233600000-fusgqso7ar@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20250930T140000
+DTEND;TZID=Europe/Paris:20250930T200000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:00\nTotal: 06:00\nRoulement: Roulement du : 25/08/2025 au 12/10/2025
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1759320000000-zi5b6zzwnkf@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251001T140000
+DTEND;TZID=Europe/Paris:20251001T203000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nStatut: Validé\nRoulement: Roulement du : 25/08/2025 au 12/10/2025
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1759406400000-boqfrvhyf8n@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251002T140000
+DTEND;TZID=Europe/Paris:20251002T211500
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 25/08/2025 au 12/10/2025
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1759473000000-unbhn8ovji@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251003T083000
+DTEND;TZID=Europe/Paris:20251003T160000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Roulement du : 25/08/2025 au 12/10/2025
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1759732200000-no30jimiuw@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251006T083000
+DTEND;TZID=Europe/Paris:20251006T163000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:30\nTotal: 08:00\nRoulement: Roulement du : 25/08/2025 au 12/10/2025
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1759838400000-d1sscs26vde@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251007T140000
+DTEND;TZID=Europe/Paris:20251007T200000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:00\nTotal: 12:00\nRoulement: Code : S2Z4
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1759924800000-nb8dsl40win@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251008T140000
+DTEND;TZID=Europe/Paris:20251008T200000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:00\nTotal: 12:00\nRoulement: Code : S2Z4
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1760011200000-rmrjbo2oh7f@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251009T140000
+DTEND;TZID=Europe/Paris:20251009T211500
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 12:00\nRoulement: Code : S2Z8
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1760077800000-e00ixmq0bau@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251010T083000
+DTEND;TZID=Europe/Paris:20251010T160000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 12:00\nRoulement: Code : M8TM
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1760337000000-tok3u0eapkc@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251013T083000
+DTEND;TZID=Europe/Paris:20251013T164500
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1760445000000-m6ggk9gyww@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251014T143000
+DTEND;TZID=Europe/Paris:20251014T200000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1760529600000-mji3dsesx8@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:Service
+DTSTART;TZID=Europe/Paris:20251015T140000
+DTEND;TZID=Europe/Paris:20251015T203000
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-1760616000000-jew2qdeffza@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251016T140000
 DTEND;TZID=Europe/Paris:20251016T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1760682600000-h7c4wc7igdl@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1760682600000-nwc2a1rg9wg@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251017T083000
 DTEND;TZID=Europe/Paris:20251017T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00 (00:20min )<br/> Nb heures total : 07:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1760941800000-5t28i3v2og@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1760941800000-c34vjij63y@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251020T083000
 DTEND;TZID=Europe/Paris:20251020T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Motif : Heures déduites au planning<br/>Du 20/10/2025 au 24/10/2025 : <br/><b>Le 20/10/2025 Remplacé par LEFRANCOIS Sylvie </b><br/>\n                                                                                                                                                <div class="separationTooltip">Théorique :<br/>Code : M8TE<br/>Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45 <br/> Nb heures total : 08:15<br/><br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Code : M8TE
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1761049800000-ovmwye9x82o@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1761049800000-738qgfudrw@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251021T143000
 DTEND;TZID=Europe/Paris:20251021T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Motif : Heures déduites au planning<br/>Du 20/10/2025 au 24/10/2025 : <br/>\n                                                                                                                                                <div class="separationTooltip">Théorique :<br/>Code : S2T1<br/>Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/><br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Code : S2T1
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1761134400000-4x7ns6ha1rw@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1761134400000-z2wmclhxgj@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251022T140000
 DTEND;TZID=Europe/Paris:20251022T203000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Motif : Heures déduites au planning<br/>Du 20/10/2025 au 24/10/2025 : <br/><b>Le 22/10/2025 Remplacé par LEFRANCOIS Sylvie </b><br/>\n                                                                                                                                                <div class="separationTooltip">Théorique :<br/>Code : S2ZW<br/>Eq. STS HB AMP<br/>Plages :<br/>14:00 - 20:30 <br/> Nb heures total : 06:30<br/><br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Code : S2ZW
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1761220800000-9t6e0lussng@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1761220800000-p30nv1nkyvs@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251023T140000
 DTEND;TZID=Europe/Paris:20251023T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Motif : Heures déduites au planning<br/>Du 20/10/2025 au 24/10/2025 : <br/><b>Le 23/10/2025 Remplacé par LEFRANCOIS Sylvie </b><br/>\n                                                                                                                                                <div class="separationTooltip">Théorique :<br/>Code : S2Z8<br/>Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/><br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Code : S2Z8
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1761287400000-cymy55o0bz6@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1761287400000-93pgmlz73w@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251024T083000
 DTEND;TZID=Europe/Paris:20251024T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Motif : Heures déduites au planning<br/>Du 20/10/2025 au 24/10/2025 : <br/><b>Le 24/10/2025 Remplacé par LEFRANCOIS Sylvie </b><br/>\n                                                                                                                                                <div class="separationTooltip">Théorique :<br/>Code : M8TM<br/>Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00 (00:20min )<br/> Nb heures total : 07:30<br/><br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Code : M8TM
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1761555600000-7dx753cka25@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1761555600000-johnbc2489f@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251027T100000
 DTEND;TZID=Europe/Paris:20251027T180000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Motif : Heures déduites au planning<br/>\n                                                                                                                                                <div class="separationTooltip">Théorique :<br/>Code : JDZ4<br/>Eq. STS HB AMP<br/>Plages :<br/>10:00 - 18:00<br/>Nb heures total : 08:00<br/><br/>Statut : Modifié<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 10:00 – 18:00\nTotal: 08:00\nStatut: Modifié\nRoulement: Code : JDZ4
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1761638400000-y964oiye6gg@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1761638400000-d67vp3gy79@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251028T090000
 DTEND;TZID=Europe/Paris:20251028T210000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Motif : Heures déduites au planning<br/>\n                                                                                                                                                <div class="separationTooltip">Théorique :<br/>Code : L9Z1<br/>Eq. STS HB AMP<br/>Plages :<br/>09:00 - 21:00<br/>Nb heures total : 12:00<br/><br/>Statut : Modifié<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 09:00 – 21:00\nTotal: 12:00\nStatut: Modifié\nRoulement: Code : L9Z1
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1761897600000-z3gtw85d5kr@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1761897600000-ttt7meoadqn@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251031T090000
 DTEND;TZID=Europe/Paris:20251031T180000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Motif : Heures déduites au planning<br/>\n                                                                                                                                                <div class="separationTooltip">Théorique :<br/>Code : J9Z8<br/>Eq. STS HB AMP<br/>Plages :<br/>09:00 - 18:00<br/>Nb heures total : 09:00<br/><br/>Statut : Modifié<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 09:00 – 18:00\nTotal: 09:00\nStatut: Modifié\nRoulement: Code : J9Z8
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1762155000000-9l0ozh8g89m@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1762155000000-y1y9i6lesik@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251103T083000
 DTEND;TZID=Europe/Paris:20251103T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45<br/>Nb heures total : 08:15<br/><br/>Note : <b>temps de prépa possible: remplacement par Charlotte</b><br/><br/>Statut : Modifié\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nStatut: Modifié\nRoulement: Roulement du : 13/10/2025 au 31/03/2027\nNote: temps de prépa possible: remplacement par Charlotte
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1762263000000-nzqqkpodnrj@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1762263000000-gu1p51i1z1d@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251104T143000
 DTEND;TZID=Europe/Paris:20251104T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1762347600000-d1pgiuserhj@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1762347600000-n7meh7tofcl@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251105T140000
 DTEND;TZID=Europe/Paris:20251105T203000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 20:30 <br/> Nb heures total : 06:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1762434000000-rq2b500sgc@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1762434000000-m63sob3flgo@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251106T140000
 DTEND;TZID=Europe/Paris:20251106T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1762500600000-jddi6onlu9@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1762500600000-d6hlni5o8jt@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251107T083000
 DTEND;TZID=Europe/Paris:20251107T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00 (00:20min )<br/> Nb heures total : 07:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1762759800000-j5hvt6rm9z@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1762759800000-9i1lh8f8jms@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251110T083000
 DTEND;TZID=Europe/Paris:20251110T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45 <br/> Nb heures total : 08:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1762867800000-np92yeb9zdl@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1762867800000-qqlvlgi1uml@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251111T143000
 DTEND;TZID=Europe/Paris:20251111T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1762952400000-ryztbzg5wz@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1762952400000-baro4cyf2lc@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251112T140000
 DTEND;TZID=Europe/Paris:20251112T203000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 20:30 <br/> Nb heures total : 06:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1763038800000-14rhgquh8b5@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1763038800000-j91kis3p8x@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251113T140000
 DTEND;TZID=Europe/Paris:20251113T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1763105400000-rxb93maggqt@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1763105400000-d7nb66e2ybt@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251114T083000
 DTEND;TZID=Europe/Paris:20251114T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00<br/>Nb heures total : 07:30<br/><br/>Note : <b>temps de prépa possible: remplacement par Charlotte</b><br/><br/>Statut : Modifié\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nStatut: Modifié\nRoulement: Roulement du : 13/10/2025 au 31/03/2027\nNote: temps de prépa possible: remplacement par Charlotte
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1763364600000-fk7ezsgwz8@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1763364600000-06hsnpvgo36@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251117T083000
 DTEND;TZID=Europe/Paris:20251117T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45 <br/> Nb heures total : 08:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1763472600000-z4zg4lv3bj@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1763472600000-v42hjd7p0nm@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251118T143000
 DTEND;TZID=Europe/Paris:20251118T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1763557200000-0rvr9r5fjb2k@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1763557200000-dfcufsnh4l4@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251119T140000
 DTEND;TZID=Europe/Paris:20251119T203000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 20:30 <br/> Nb heures total : 06:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1763643600000-eqg4vxygto@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1763643600000-9neikbl6dt@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251120T140000
 DTEND;TZID=Europe/Paris:20251120T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1763710200000-4gm8o3l1x3c@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1763710200000-3s1d1uji9pu@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251121T083000
 DTEND;TZID=Europe/Paris:20251121T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00 (00:20min )<br/> Nb heures total : 07:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1763969400000-7u78ya7ru7r@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1763969400000-nnsihb463j@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251124T083000
 DTEND;TZID=Europe/Paris:20251124T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45 <br/> Nb heures total : 08:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764077400000-fsvwmjn1zcw@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764077400000-t9l0bvp0f4p@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251125T143000
 DTEND;TZID=Europe/Paris:20251125T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764162000000-4if8asbhyzo@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764162000000-5gmlw27rgwp@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251126T140000
 DTEND;TZID=Europe/Paris:20251126T203000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 20:30 <br/> Nb heures total : 06:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764248400000-lgukupcicin@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764248400000-1v5x67whrmfi@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251127T140000
 DTEND;TZID=Europe/Paris:20251127T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764315000000-hizy3nrqq46@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764315000000-41cqie1xm7o@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251128T083000
 DTEND;TZID=Europe/Paris:20251128T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00 (00:20min )<br/> Nb heures total : 07:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764574200000-0zo2wynr4n7@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764574200000-jo0l8xjlhoh@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251201T083000
 DTEND;TZID=Europe/Paris:20251201T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45 <br/> Nb heures total : 08:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764682200000-8j38c563ix4@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764682200000-19s51l6h0o3@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251202T143000
 DTEND;TZID=Europe/Paris:20251202T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764766800000-vr666d46vja@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764766800000-xr6lcv8gq7o@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251203T140000
 DTEND;TZID=Europe/Paris:20251203T203000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 20:30 <br/> Nb heures total : 06:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764853200000-9njvqwb1bx5@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764853200000-tmd0yr9yce@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251204T140000
 DTEND;TZID=Europe/Paris:20251204T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1764919800000-xp59jr73rki@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1764919800000-2c4v0s9ltcu@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251205T083000
 DTEND;TZID=Europe/Paris:20251205T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00 (00:20min )<br/> Nb heures total : 07:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1765179000000-eeddvnioqdr@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1765179000000-njgb846dsl@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251208T083000
 DTEND;TZID=Europe/Paris:20251208T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45 <br/> Nb heures total : 08:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1765287000000-rsnhji4ypwi@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1765287000000-qz8lhrtzqbk@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251209T143000
 DTEND;TZID=Europe/Paris:20251209T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1765371600000-dcp5nd0ywjf@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1765371600000-b222iowxjkl@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251210T140000
 DTEND;TZID=Europe/Paris:20251210T203000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 20:30 <br/> Nb heures total : 06:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1765458000000-49515i99c47@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1765458000000-t51fgjwmmwb@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251211T140000
 DTEND;TZID=Europe/Paris:20251211T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1765524600000-0etd3w5s88wg@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1765524600000-h7g7gq7iebv@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251212T083000
 DTEND;TZID=Europe/Paris:20251212T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00 (00:20min )<br/> Nb heures total : 07:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1765783800000-szqy8pgobee@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1765783800000-akci5vhk2fu@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251215T083000
 DTEND;TZID=Europe/Paris:20251215T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45 <br/> Nb heures total : 08:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1765891800000-tz9glxqup0p@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1765891800000-tztmziouet8@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251216T143000
 DTEND;TZID=Europe/Paris:20251216T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1765976400000-s40po59oa3h@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1765976400000-dzap2xh7fvo@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251217T140000
 DTEND;TZID=Europe/Paris:20251217T203000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 20:30 <br/> Nb heures total : 06:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 20:30\nTotal: 06:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1766062800000-fcv28gu8v7p@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1766062800000-3w3pq7zenjc@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251218T140000
 DTEND;TZID=Europe/Paris:20251218T211500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:00 - 21:15 (00:20min )<br/> Nb heures total : 07:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:00 – 21:15\nTotal: 07:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1766129400000-4uuba0ex6hj@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1766129400000-9mf4mb44nu@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251219T083000
 DTEND;TZID=Europe/Paris:20251219T160000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:00 (00:20min )<br/> Nb heures total : 07:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:00\nTotal: 07:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1766388600000-pvsj7ypn31@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1766388600000-s2b7x4n1je8@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251222T083000
 DTEND;TZID=Europe/Paris:20251222T164500
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>08:30 - 16:45 <br/> Nb heures total : 08:15<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 08:30 – 16:45\nTotal: 08:15\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1766496600000-tbg58jxmfma@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1766496600000-zmufbnhg9al@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251223T143000
 DTEND;TZID=Europe/Paris:20251223T200000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>14:30 - 20:00 <br/> Nb heures total : 05:30<br/>\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 14:30 – 20:00\nTotal: 05:30\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-1766563200000-6w3mixd88sh@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-1766563200000-27q0ckj9opr@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:Service
 DTSTART;TZID=Europe/Paris:20251224T090000
 DTEND;TZID=Europe/Paris:20251224T210000
-DESCRIPTION:Note: Eq. STS HB AMP<br/>Plages :<br/>09:00 - 21:00<br/>Nb heures total : 12:00<br/><br/>Statut : Modifié\n                                                                                                                                                                                    <div class="separationTooltip">Théorique :<br/>Roulement du : 13/10/2025 au 31/03/2027<br/><div>
+LOCATION:STS HB AMP
+DESCRIPTION:Plage: 09:00 – 21:00\nTotal: 12:00\nStatut: Modifié\nRoulement: Roulement du : 13/10/2025 au 31/03/2027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1760738400000-RH-xmq5d45x36b@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1759528800000-RH-9rv3vfe01sm@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:RH
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-abs-1759615200000-RH-t7rwbaw7bzd@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:RH
+DTSTART;VALUE=DATE:20251005
+DTEND;VALUE=DATE:20251006
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-abs-1759615200000-RHD-gf1py7g5aje@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:RHD
+DTSTART;VALUE=DATE:20251005
+DTEND;VALUE=DATE:20251006
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-abs-1760133600000-RH-16qheox0x5k@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:RH
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-abs-1760220000000-RH-n98ndywfm8a@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:RH
+DTSTART;VALUE=DATE:20251012
+DTEND;VALUE=DATE:20251013
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-abs-1760220000000-RHD-2lrx0v1x8nj@apaeia
+DTSTAMP:20251030T225216Z
+SUMMARY:RHD
+DTSTART;VALUE=DATE:20251012
+DTEND;VALUE=DATE:20251013
+END:VEVENT
+BEGIN:VEVENT
+UID:imago-abs-1760738400000-RH-37tw8l07ywi@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251018
 DTEND;VALUE=DATE:20251019
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1760824800000-RH-6p17wxqrrhj@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1760824800000-RH-1jur208pisd@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251019
 DTEND;VALUE=DATE:20251020
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1760824800000-RHD-eunt2826u38@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1760824800000-RHD-b77euaz6tce@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251019
 DTEND;VALUE=DATE:20251020
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1760911200000-H--iamyi3h3lb@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1760911200000-H--84uykvfol5d@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:H-
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1760997600000-H--t20e0ggdk8@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1760997600000-H--jaad25g6nib@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:H-
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761084000000-H--cetaqirntnp@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761084000000-H--kgljj6q78t@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:H-
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761170400000-H--2lcjr52pdn6@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761170400000-H--ot6g47skqtg@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:H-
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761256800000-H--62h3ts2kjkb@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761256800000-H--4ehw4mjv21a@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:H-
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761343200000-RH-z77ev2tchdj@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761343200000-RH-sbz77kr126@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251025
 DTEND;VALUE=DATE:20251026
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761429600000-RH-y15whg1ta4@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761429600000-RH-x44stmp2cth@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251026
 DTEND;VALUE=DATE:20251027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761429600000-RHD-qvrmr8k965s@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761429600000-RHD-b1qb24o50s@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251026
 DTEND;VALUE=DATE:20251027
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761519600000-H--1wjfmom7dbi@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761519600000-H--x5yd3jijzy@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:H-
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761606000000-H--6jsbtx1sgrm@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761606000000-H--xlje2qm6e2d@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:H-
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761692400000-RCNS-mjl5tnb7p3@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761692400000-RCNS-i0jqpeh7gki@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RCNS
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761865200000-H--px7zk570iy@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761865200000-H--x9mubgezx4@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:H-
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1761951600000-RH-8as5kd0c6ja@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1761951600000-RH-nct1zmwq83@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251101
 DTEND;VALUE=DATE:20251102
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1762038000000-RH-1njtyca1zri@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1762038000000-RH-g0uafjpu0wn@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251102
 DTEND;VALUE=DATE:20251103
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1762038000000-RHD-gmnwqmdic5q@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1762038000000-RHD-u5hz3tvga8@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251102
 DTEND;VALUE=DATE:20251103
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1762556400000-RH-bwtl1wy4a44@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1762556400000-RH-rnxcg8plrca@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251108
 DTEND;VALUE=DATE:20251109
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1762642800000-RH-cjezy12k429@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1762642800000-RH-pcc2be8bds@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251109
 DTEND;VALUE=DATE:20251110
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1762642800000-RHD-mhhpz01saw@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1762642800000-RHD-ll2pgeik8tq@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251109
 DTEND;VALUE=DATE:20251110
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1763161200000-RH-yeutidprxvo@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1763161200000-RH-8ol6qdoow9r@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251115
 DTEND;VALUE=DATE:20251116
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1763247600000-RH-u5jqbob3q7@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1763247600000-RH-z0q2iceln2i@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251116
 DTEND;VALUE=DATE:20251117
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1763247600000-RHD-9czwo9fn34t@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1763247600000-RHD-2f389nqq6jq@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251116
 DTEND;VALUE=DATE:20251117
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1763766000000-RH-dqst96wprih@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1763766000000-RH-fm97rrf3up@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20251123
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1763852400000-RH-lmwri1ewxn@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1763852400000-RH-dahnnclwl6d@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251123
 DTEND;VALUE=DATE:20251124
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1763852400000-RHD-kwt1vu6yf8r@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1763852400000-RHD-hc6cfnbe8tt@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251123
 DTEND;VALUE=DATE:20251124
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1764370800000-RH-2kwethygua3@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1764370800000-RH-hbo9psipg5m@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251130
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1764457200000-RH-a504wbw9jo@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1764457200000-RH-ztpd735s4w@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251130
 DTEND;VALUE=DATE:20251201
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1764457200000-RHD-7nkvb25a2c8@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1764457200000-RHD-ff85kl6smzg@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251130
 DTEND;VALUE=DATE:20251201
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1764975600000-RH-srcgc1c7du@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1764975600000-RH-qt5q1aqhbsb@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251207
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1765062000000-RH-ev7lujv59rj@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1765062000000-RH-8lgcbnihc9x@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251207
 DTEND;VALUE=DATE:20251208
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1765062000000-RHD-1wzwl4x7wo2@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1765062000000-RHD-85nrsoe4lvs@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251207
 DTEND;VALUE=DATE:20251208
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1765580400000-RH-of0hfpq91o7@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1765580400000-RH-ajvx5f9ops4@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251214
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1765666800000-RH-4fdh40ktbjg@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1765666800000-RH-4y3o78ezycm@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251214
 DTEND;VALUE=DATE:20251215
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1765666800000-RHD-7w64hkm2df4@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1765666800000-RHD-g5gxkmd6ao7@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251214
 DTEND;VALUE=DATE:20251215
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1766185200000-RH-hlp0rduzm4q@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1766185200000-RH-pm5fbc7u9x@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251221
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1766271600000-RH-81imw5nlrlv@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1766271600000-RH-fe379cyl5nf@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RH
 DTSTART;VALUE=DATE:20251221
 DTEND;VALUE=DATE:20251222
 END:VEVENT
 BEGIN:VEVENT
-UID:imago-abs-1766271600000-RHD-e4rghxplco@apaeia
-DTSTAMP:20251030T202654Z
+UID:imago-abs-1766271600000-RHD-i8l682zzxa8@apaeia
+DTSTAMP:20251030T225216Z
 SUMMARY:RHD
 DTSTART;VALUE=DATE:20251221
 DTEND;VALUE=DATE:20251222
